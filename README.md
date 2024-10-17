@@ -25,15 +25,5 @@
 1) 파이썬 프로그래밍을 하기 위한 컴퓨터의 환경을 만드는 것(프로그램 설치)
 2) IDE : 환경 Visual Studio
 ----------------------------------------------------
-구분	list	tuple	set 	dictionary
-설명	값 변경O	값 변경 X 	"중복저장 X, 
-인덱싱 X, 슬라이싱 X"	"키 : 벨류 저장,
-인덱싱 X, 슬라이싱 X"
-특징(괄호)	O	O	X	X
-빈 목록 만들기	O	O	O	O
-추가	O	X	O	O
-수정	O	X	O	O
-삭제	O	X	O	O
-변환함수	list()	tuple()	set()	setdefault(key : value)
 ![image](https://github.com/user-attachments/assets/c418797f-3ceb-4f5c-b099-fec6e1310606)
 
