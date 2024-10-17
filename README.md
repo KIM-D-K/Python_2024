@@ -25,5 +25,6 @@
 1) 파이썬 프로그래밍을 하기 위한 컴퓨터의 환경을 만드는 것(프로그램 설치)
 2) IDE : 환경 Visual Studio
 ----------------------------------------------------
+List, Tuple, Set, Dictionary
 ![image](https://github.com/user-attachments/assets/c418797f-3ceb-4f5c-b099-fec6e1310606)
 
